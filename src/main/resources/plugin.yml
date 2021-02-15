@@ -1,0 +1,8 @@
+name: WaterfallUuidSync
+version: ${project.version}
+main: de.tschallacka.spigot.waterfalluuidsync.WaterfallUuidSync
+api-version: 1.13
+load: STARTUP
+authors: [Tschallacka]
+description: A plugin to get the UUID from the authenticating waterfall server into the offline mode servers
+website: https://www.tschallacka.de
